@@ -1,7 +1,7 @@
 # 📋 FL-FeV - Fahrerlaubnis-Verordnung Editor
 
 **Fahrlehrer-Ausbildung FL-BE_07/25**  
-Verkehrsinstitut Schielein Nürnberg
+
 
 ---
 
@@ -127,8 +127,7 @@ Dieses Repository ist Teil einer systematischen Tool-Suite für die Fahrlehrer-A
 ## 📝 Lizenz & Verwendung
 
 **Projekt:** Fahrlehrer-Ausbildung FL-BE_07/25  
-**Ersteller:** Justin Lee Probis  
-**Institut:** Verkehrsinstitut Schielein Nürnberg  
+**Ersteller:** Justin Lee Probis   
 **Zweck:** Ausbildung und Podcast "Fahrlehrer Inside"
 
 Dieses Tool und die Daten sind für **Ausbildungszwecke** erstellt.
